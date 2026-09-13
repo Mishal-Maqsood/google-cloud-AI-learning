@@ -21,7 +21,7 @@ This repository documents my training, practical knowledge, and achievements on 
 
 ## 🖼️ Proof of Completion
 
-![Course Completion Badge](badge1.png)
+![Course Completion Badge](badge.png)
 
 🔗 **Verify My Badge on Google Cloud:** [My Public Profile]( https://www.skills.google/public_profiles/d14e4c6e-98c7-49df-9c82-e6745bc3cf92)
 
